@@ -1,0 +1,5 @@
+a = height
+b = weight
+a = float(a)
+b = int(b)
+print(int(b/(a*a)))
